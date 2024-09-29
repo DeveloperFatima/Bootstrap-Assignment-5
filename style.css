@@ -1,0 +1,987 @@
+body{
+    overflow-x: hidden !important;
+}
+.logo{
+    height: 13vh;
+    position: relative;
+    top: -25px;
+    left: 40px;
+}
+.navbar{
+    height: 10vh;
+}
+@media only screen and (max-width: 500px){
+    .navbar{
+        height: 60px !important;
+    }
+    #btn1{
+        display: none;
+    }
+    .logo{
+        height: 10vh !important;
+        position: relative;
+        top: -15px;
+        left: 170px;
+    }
+    .white{
+        display: none !important;
+    }
+    #btn1{
+        display: none !important;
+    }
+    #btn2{
+        display: none !important;
+    }
+    .lang{
+        display: none !important;
+    }
+    #english{
+        display: none !important;
+    }
+    #drops{
+        display: none;
+    }
+    #drop{
+        position: relative;
+        left: -390px !important;
+        top: -15px !important;
+    }
+    .people{
+        position: relative;
+        top: -15px;
+        left: 20px;
+    }
+    #find{
+        position: relative;
+        font-size: 20px;
+        top: 90px !important;
+        left: 10px !important;
+    }
+    #images{
+        position: relative;
+        left: 290px !important;
+    }
+    #btn4{
+        position: relative;
+        top: -750px !important;
+        left: -20px !important;
+        width: 60% !important;
+    }
+    .head{
+        position: relative;
+        left: 20px !important;
+        font-size: 20px;
+    }
+    .whites{
+        width: 90% !important;
+        position: relative;
+        left: 20px !important;
+    }
+    .text-center{
+        font-size: 18px;
+    }
+    #para{
+        font-size: 15px !important;
+    }
+    #paras{
+        font-size: 15px !important;
+    }
+    .heads{
+        font-size: 20px;
+        position: relative;
+        left: 20px !important;
+    }
+    .islams{
+        height: 23vh !important;
+        width: 140% !important;
+        position: relative;
+        left: 90px !important;
+    }
+    .islama{
+        height: 23vh !important;
+        width: 140% !important;
+        position: relative;
+        left: 170px !important;
+    }
+    .islamas{
+        height: 23vh !important;
+        width: 140% !important;
+        position: relative;
+        top: 205px !important;
+        left: 10px !important;
+    }
+    .baha{
+        height: 23vh !important;
+        width: 100% !important;
+        position: relative;
+        left: 40px !important;
+        top: 15px !important;
+    }
+    .bahas{
+        display: none;
+    }
+    .bahal{
+        display: none;
+    }
+    .bahaw{
+        display: none;
+    }
+    .jhelum{
+        display: none;
+    }
+    .jhelums{
+       display: none;
+    }
+    .jhel{
+        display: none;
+    }
+    .jhels{
+        display: none;
+    }
+    .main2{
+        width: 120px !important;
+    }
+    .main3{
+        width: 120px !important;
+        position: relative;
+        left: 180px !important;
+    }
+    .main4{
+        width: 120px !important;
+        position: relative;
+        top: 150px !important;
+        left: 20px !important;
+    }
+    .main5{
+        width: 120px !important;
+        position: relative;
+        top: -40px !important;
+        left: 50px !important;
+    }
+    .main6{
+        display: none;
+    }
+    .main7{
+        display: none;
+    }
+    .main8{
+        display: none;
+    }
+    .main9{
+        display: none;
+    }
+    .main10{
+        display: none;
+    }
+    .main11{
+        display: none;
+    }
+    .main12{
+        display: none;
+    }
+    .islam{
+        display: none;
+    }
+    .main1{
+        display: none;
+    }
+    #head{
+        position: relative;
+        top: 20px !important;
+    }
+    .pink{
+        height: 80vh !important;
+        position: relative;
+        margin-left: -40px !important;
+        width: 50%;
+        top: 30px !important;
+    }
+    .down{
+        font-size: 20px;
+    }
+    .finger{
+        font-size: 13px !important;
+    }
+    .app{
+        position: relative;
+        top: -20px !important;
+        left: 90px !important;
+    }
+    .apps{
+        position: relative;
+        top: -20px !important;
+        left: 90px !important;
+    }
+    .appss{
+        position: relative;
+        top: 40px !important;
+        left: -120px !important;
+    }
+    .mobile{
+        position: relative;
+        left: 10px !important;
+        top: 20px !important;
+        height: 55vh !important;
+    }
+    .whitess{
+        width: 85% !important;
+        position: relative;
+        left: 35px !important;
+    }
+    #graph{
+        position: relative;
+        left: 15px !important;
+    }
+    #btn5{
+        position: relative;
+        top: 55px !important;
+        left: -5px !important;
+    }
+    #our{
+        font-size: 18px !important;
+    }
+    #graphs{
+        position: relative;
+        left: 25px !important;
+        font-size: 14px !important;
+    }
+    .tick{
+        position: relative;
+        left: 22px !important;
+    }
+    .ticks{
+        position: relative;
+        left: 22px !important;
+    }
+    .tickss{
+        position: relative;
+        left: 22px !important;
+    }
+    .check{
+        position: relative;
+        left: 22px !important;
+    }
+    #point1{
+        position: relative;
+        left: 55px !important;
+        font-size: 14px !important;
+    }
+    
+    #point2{
+        position: relative;
+        left: 55px !important;
+        font-size: 14px !important;
+    }
+    
+    #point3{
+        position: relative;
+        left: 55px !important;
+        font-size: 14px !important;
+    }
+    
+    #point4{
+        position: relative;
+        left: 55px !important;
+        font-size: 14px !important;
+    }
+}
+@media only screen and (min-width: 1316px){
+    .people{
+        display: none;
+    }
+}
+#btn1{
+    position: relative;
+    top: -25px;
+    left: 400px;
+    transition: 0.5s;
+}
+.people{
+    height: 4vh;
+}
+#btn1:hover{
+    transform: scale(1.2);
+    transition: 0.5s;
+}
+#btn2{
+    background-color:  #e40b82;
+    position: relative;
+    top: -25px;
+    left: 100px;
+    transition: 0.5s;
+}
+#btn2:hover{
+    transform: scale(1.2);
+    transition: 0.5s;
+}
+.lang{
+    position: relative;
+    top: 7px;
+    left: -210px;
+    height: 3vh;
+}
+#english{
+    position: relative;
+    top: -16px;
+    left: -180px;
+}
+#drops{
+    position: relative;
+    top: -58px;
+    left: -160px;
+    height: 4vh;
+}
+#drop{
+    position: relative;
+    top: -58px;
+    left: -160px;
+    height: 4vh;
+}
+#images{
+    position: relative;
+    width: 60%;
+    left: 800px;
+}
+#find{
+    position: absolute;
+    top: 200px;
+    left: 80px;
+}
+.white{
+    width: 45%;
+    background-color: white;
+    height: 10vh;
+    position: relative;
+    top: -300px;
+    left: 80px;
+    border-radius: 10px;
+}
+.form-floating{
+    position: relative;
+    top: 3px;
+    left: 20px;
+    border-radius: 10px;
+}
+.locate{
+    height: 4vh;
+    position: relative;
+    left: 300px;
+    top: -45px;
+}
+.h6{
+    position: absolute;
+    left: 340px;
+    top: 22px;
+}
+#btn3{
+    background-color:  #e40b82;
+    position: relative;
+    top: -48px;
+    left: 430px;
+    transition: 0.5s;
+    height: 40px;
+    width: 80px;
+}
+#btn3:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+.greys{
+    background-color: rgb(241, 239, 239);
+}
+.head{
+    position: relative;
+    top: 80px;
+    left: 100px;
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
+}
+#fluid{
+    position: relative;
+    top: 100px;
+    left: -1px;
+    height: 404px;
+    width: 100%;
+}
+.whites{
+    background-color: white;
+    position: relative;
+    top: -50px;
+    left: 60px;
+    width: 45%;
+    height: 60vh;
+    border-radius: 20px;
+}
+.text-center{
+    position: relative;
+    top: 20px;
+    font-family: "Poppins", sans-serif;
+}
+#para{
+    position: relative;
+    top: 50px;
+    left: 30px;
+    line-height: 1.5em;
+}
+#paras{
+    position: relative;
+    top: 60px;
+    left: 30px;
+    line-height: 1.5em;
+}
+#parass{
+    position: relative;
+    top: 70px;
+    left: 30px;
+    line-height: 1.5em;
+}
+#btn4{
+    background-color:  #e40b82;
+    position: relative;
+    top: 75px;
+    left: 5px;
+    transition: 0.5s;
+    height: 40px;
+    width: 90px;
+}
+#btn4:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+.heads{
+    position: relative;
+    top: 20px;
+    left: 80px;
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
+}
+.islam{
+    height: 35vh;
+    position: relative;
+    left: 80px;
+    top: 50px;
+    width: 280px;
+    border-radius: 20px;
+    transition: 0.5s;
+}
+.islams{
+    height: 35vh;
+    position: relative;
+    left: 80px;
+    top: 50px;
+    width: 280px;
+    border-radius: 20px;
+    transition: 0.5s;
+}
+.islama{
+    height: 35vh;
+    position: relative;
+    left: 80px;
+    top: 50px;
+    width: 280px;
+    border-radius: 20px;
+    transition: 0.5s;
+}
+.islamas{
+    height: 35vh;
+    position: relative;
+    left: 80px;
+    top: 50px;
+    width: 280px;
+    border-radius: 20px;
+    transition: 0.5s;
+}
+.baha{
+    height: 35vh;
+    position: relative;
+    left: 80px;
+    top: 50px;
+    width: 280px;
+    border-radius: 20px;
+    transition: 0.5s;
+}
+.bahas{
+    height: 35vh;
+    position: relative;
+    left: 80px;
+    top: 50px;
+    width: 280px;
+    border-radius: 20px;
+    transition: 0.5s;
+}
+.bahal{
+    height: 35vh;
+    position: relative;
+    left: 80px;
+    top: 50px;
+    width: 280px;
+    border-radius: 20px;
+    transition: 0.5s;
+}
+.bahaw{
+    height: 35vh;
+    position: relative;
+    left: 80px;
+    top: 50px;
+    width: 280px;
+    border-radius: 20px;
+    transition: 0.5s;
+}
+.jhelum{
+    height: 35vh;
+    position: relative;
+    left: 80px;
+    top: 50px;
+    width: 280px;
+    border-radius: 20px;
+    transition: 0.5s;
+}
+.jhelums{
+    height: 35vh;
+    position: relative;
+    left: 80px;
+    top: 50px;
+    width: 280px;
+    border-radius: 20px;
+    transition: 0.5s;
+}
+.jhel{
+    height: 35vh;
+    position: relative;
+    left: 80px;
+    top: 50px;
+    width: 280px;
+    border-radius: 20px;
+    transition: 0.5s;
+}
+.jhels{
+    height: 35vh;
+    position: relative;
+    left: 80px;
+    top: 50px;
+    width: 280px;
+    border-radius: 20px;
+    transition: 0.5s;
+}
+.main1{
+    background-color: white;
+    position: relative;
+    left: 100px;
+    width: 40%;
+    height: 45px;
+    border-radius: 10px;
+    top: -10px;
+}
+.h5{
+    position: relative;
+    top: 9px;
+    left: 11px;
+}
+.islam:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+.main2{
+    background-color: white;
+    position: relative;
+    left: 100px;
+    width: 40%;
+    height: 45px;
+    border-radius: 10px;
+    top: -10px;
+}
+#headss{
+    position: relative;
+    top: 9px;
+    left: 22px;
+}
+.main3{
+    background-color: white;
+    position: relative;
+    left: 100px;
+    width: 40%;
+    height: 45px;
+    border-radius: 10px;
+    top: -10px;
+}
+#kar{
+    position: relative;
+    top: 9px;
+    left: 25px;
+}
+.main4{
+    background-color: white;
+    position: relative;
+    left: 100px;
+    width: 40%;
+    height: 45px;
+    border-radius: 10px;
+    top: -10px;
+}
+#kara{
+    position: relative;
+    top: 9px;
+    left: 15px;
+}
+.main{
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+    left: -80px
+}
+.main5{
+    background-color: white;
+    position: relative;
+    left: 100px;
+    width: 45%;
+    height: 45px;
+    border-radius: 10px;
+    top: -10px;
+}
+#rawal{
+    position: relative;
+    top: 9px;
+    left: 14px;
+}
+.main6{
+    background-color: white;
+    position: relative;
+    left: 100px;
+    width: 45%;
+    height: 45px;
+    border-radius: 10px;
+    top: -10px;
+}
+#rawals{
+    position: relative;
+    top: 9px;
+    left: 15px;
+}
+.main7{
+    background-color: white;
+    position: relative;
+    left: 100px;
+    width: 45%;
+    height: 45px;
+    border-radius: 10px;
+    top: -10px;
+}
+#rawa{
+    position: relative;
+    top: 9px;
+    left: 10px;
+}
+.main8{
+    background-color: white;
+    position: relative;
+    left: 100px;
+    width: 65%;
+    height: 45px;
+    border-radius: 10px;
+    top: -10px;
+}
+#raw{
+    position: relative;
+    top: 9px;
+    left: 15px;
+}
+.submain1{
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+    left: -80px
+}
+.main9{
+    background-color: white;
+    position: relative;
+    left: 100px;
+    width: 45%;
+    height: 45px;
+    border-radius: 10px;
+    top: -10px;
+}
+#gujran{
+    position: relative;
+    top: 9px;
+    left: 13px;
+}
+.main10{
+    background-color: white;
+    position: relative;
+    left: 100px;
+    width: 40%;
+    height: 45px;
+    border-radius: 10px;
+    top: -10px;
+}
+#gujra{
+    position: relative;
+    top: 9px;
+    left: 27px;
+}
+.main11{
+    background-color: white;
+    position: relative;
+    left: 100px;
+    width: 45%;
+    height: 45px;
+    border-radius: 10px;
+    top: -10px;
+}
+#hyder{
+    position: relative;
+    top: 9px;
+    left: 13px;
+}
+.main12{
+    background-color: white;
+    position: relative;
+    left: 100px;
+    width: 40%;
+    height: 45px;
+    border-radius: 10px;
+    top: -10px;
+}
+#hyders{
+    position: relative;
+    top: 9px;
+    left: 23px;
+}
+.submain2{
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+    left: -80px
+}
+.main13{
+    background-color: white;
+    position: relative;
+    left: 100px;
+    width: 40%;
+    height: 45px;
+    border-radius: 10px;
+    top: -10px;
+}
+#kamoke{
+    position: relative;
+    top: 9px;
+    left: 19px;
+}
+.main14{
+    background-color: white;
+    position: relative;
+    left: 100px;
+    width: 40%;
+    height: 45px;
+    border-radius: 10px;
+    top: -10px;
+}
+#kamok{
+    position: relative;
+    top: 9px;
+    left: 21px;
+}
+.main15{
+    background-color: white;
+    position: relative;
+    left: 100px;
+    width: 40%;
+    height: 45px;
+    border-radius: 10px;
+    top: -10px;
+}
+#mangla{
+    position: relative;
+    top: 9px;
+    left: 21px;
+}
+.main16{
+    background-color: white;
+    position: relative;
+    left: 100px;
+    width: 40%;
+    height: 45px;
+    border-radius: 10px;
+    top: -10px;
+}
+#mardan{
+    position: relative;
+    top: 9px;
+    left: 21px;
+}
+.submain3{
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+    left: -80px
+}
+#head{
+    position: relative;
+    top: 80px;
+    left: 60px;
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
+}
+.pink{
+    width: 92%;
+    height: 50vh;
+    background-color: #e40b82;
+    position: relative;
+    top: 120px;
+    left: 60px;
+    border-radius: 20px;
+}
+.down{
+    color: white;
+    position: relative;
+    top: 50px;
+    left: 30px;
+}
+.code{
+    height: 13vh;
+    position: relative;
+    top: 80px;
+    left: 30px;
+}
+.finger{
+    position: relative;
+    left: 130px;
+    font-family: "Poppins", sans-serif;
+    line-height: 1.3em;
+    color: white;
+}
+.app{
+    height: 20vh;
+    position: relative;
+    left: 30px;
+    top: -180px;
+}
+.apps{
+    height: 6.5vh;
+    position: relative;
+    left: 45px;
+    top: -180px;
+}
+.appss{
+    height: 6.5vh;
+    position: relative;
+    left: 60px;
+    top: -180px;
+}
+.mobile{
+    height: 75vh;
+    position: relative;
+    top: -320px;
+    left: 200px;
+}
+#heads{
+    position: relative;
+    top: 200px;
+    left: 60px;
+}
+.lunch{
+    position: relative;
+    top: 230px;
+    height: 60vh;
+    width: 100%;
+}
+.whitess{
+    background-color: white;
+    position: relative;
+    top: 80px;
+    left: 60px;
+    width: 45%;
+    height: 35vh;
+    border-radius: 20px;
+}
+#graph{
+    position: relative;
+    top: 50px;
+    left: 30px;
+    line-height: 1.5em;
+}
+#btn5{
+    background-color:  #e40b82;
+    position: relative;
+    top: 75px;
+    left: 5px;
+    transition: 0.5s;
+    height: 40px;
+    width: 90px;
+}
+#btn5:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+#our{
+    position: relative;
+    top: 200px;
+    left: 60px;
+}
+#graphs{
+    position: relative;
+    top: 220px;
+    left: 60px;
+    line-height: 1.5em;
+}
+#ours{
+    position: relative;
+    top: 250px;
+    left: 60px;
+}
+.tick{
+    height: 3vh;
+    position: relative;
+    top: 270px;
+    left: 60px;
+}
+#point1{
+    position: relative;
+    top: 247px;
+    left: 90px;
+    line-height: 1.5em;
+}
+.ticks{
+    height: 3vh;
+    position: relative;
+    top: 240px;
+    left: 60px;
+}
+#point2{
+    position: relative;
+    top: 216px;
+    left: 90px;
+    line-height: 1.5em;
+}
+.tickss{
+    height: 3vh;
+    position: relative;
+    top: 210px;
+    left: 60px;
+}
+#point3{
+    position: relative;
+    top: 185px;
+    left: 90px;
+    line-height: 1.5em;
+}
+.check{
+    height: 3vh;
+    position: relative;
+    top: 180px;
+    left: 60px;
+}
+#point4{
+    position: relative;
+    top: 154px;
+    left: 90px;
+    line-height: 1.5em;
+}
+#ourss{
+    position: relative;
+    top: 200px;
+    left: 60px;
+}
+body{
+    overflow-x: hidden;
+}
